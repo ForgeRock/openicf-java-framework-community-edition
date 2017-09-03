@@ -94,7 +94,7 @@
                     <instructions>
                         <Export-Package>org.identityconnectors.*;version=${project.version}</Export-Package>
                         <Main-Class>org.identityconnectors.framework.server.Main</Main-Class>
-                        <Fragment-Host>org.forgerock.openicf.framework.connector-framework</Fragment-Host>
+                        <Fragment-Host>org.forgerock.ce.openicf.framework.connector-framework</Fragment-Host>
                     </instructions>
                 </configuration>
             </plugin>

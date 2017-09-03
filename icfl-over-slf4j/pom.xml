@@ -63,7 +63,7 @@
                 <configuration>
                     <instructions>
                         <Export-Package>!*</Export-Package>
-                        <Fragment-Host>org.forgerock.openicf.framework.connector-framework</Fragment-Host>
+                        <Fragment-Host>org.forgerock.ce.openicf.framework.connector-framework</Fragment-Host>
                     </instructions>
                 </configuration>
             </plugin>
